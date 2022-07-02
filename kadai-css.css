@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{margin:0;padding:0;font-size:12px;}
+#header {height:20px;width: 1000px;
+        background-color:#ffcccc;
+}
+
+#wrapper{width: 1000px;}
+
+#main{width:700px;height:500px;float:left;margin:0;padding:0;font-size:12px;
+      background-color:#ccffcc;
+}
+
+#menu{width:300px;height:500px;float:right;
+      background-color:#ccccff
+}
+
+#footer{height:20px;width: 1000px;clear:both;
+       background-color:#ffccff;
+}
+
+h1,h2,h3{margin-top: 0;}
+
+p{margin-top: 0; line-height: 1.6;}
